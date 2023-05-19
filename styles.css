@@ -5,9 +5,9 @@ body {
 
 h1 {
   font-size: 4rem;
-  color: #DBEDF3;
+  color: #7c7ea5;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 3px 0 rgb(211, 16, 104);
 
 }
 
@@ -49,7 +49,7 @@ h1 {
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #DBEDF3;
+  box-shadow: 0 3px 4px 0 #bee8f5;
   opacity: 0.5;
 }
 footer {
@@ -68,8 +68,8 @@ footer {
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
-  text-shadow: 3px 0 #DBEDF3;
+  color: #22abd4;
+  text-shadow: 3px 0 rgb(22, 21, 22);
   border-radius: 15px;
   display: inline-block;
   width: 135px;
