@@ -4,20 +4,15 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 4rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 
 }
 
-footer {
-  color: #DBEDF3;
-  font-family: sans-serif;
-}
-
 .w {
-  background-image: url('/images/tom1.png');
+  background-image: url('images/tom1.png');
 }
 
 .a {
@@ -49,7 +44,7 @@ footer {
 }
 
 .game-over {
-  background-color: red;
+  background-color: rgb(246, 12, 12);
   opacity: 0.8;
 }
 
@@ -64,7 +59,7 @@ footer {
 
 .drum {
   outline: none;
-  border: 10px solid #404B69;
+  border: 10px solid #284085;
   font-size: 5rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
@@ -73,8 +68,8 @@ footer {
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;
-  width: 150px;
-  height: 150px;
+  width: 135px;
+  height: 135px;
   text-align: center;
   margin: 10px;
   background-color: white;
