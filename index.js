@@ -12,7 +12,7 @@ for(var i = 0; i < drumButtonImages; i++){
             buttonAnimation(buttonInnterHTML);
 
         }
-    
+}
         document.addEventListener("keypress", function(event) {   //anonymous function (wich doesn't have a name)
             
             makeSound(event.key);
@@ -79,5 +79,5 @@ for(var i = 0; i < drumButtonImages; i++){
 
         }
            
-    }
+    
 
